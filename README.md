@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hi there, I'm [Nama Kamu] 👋</h2>
+  <h2>Hi there, I'm Muhammad Amien (amiencoy)! 👋</h2>
   <p>🚀 <b>DevSecOps & Infrastructure Automation Engineer | IT Consultant</b> 🚀</p>
 
   <p>I'm a field-tested engineer with a strong focus on server security, infrastructure automation, and neat project delivery. I specialize in remediation, ensuring systems meet stringent security standards like CIS Benchmarks, and building efficient automated workflows.</p>
@@ -27,9 +27,9 @@ I believe in "street-educated" experience—building a career through hands-on t
 <div align="center">
   <h3>📫 Let's Connect!</h3>
   <p>
-    <a href="URL_LINKEDIN_KAMU"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/muhammad-amien/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     &nbsp;
-    <a href="mailto:EMAIL_KAMU"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="mailto:mamien131@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
   </p>
   <br>
   <p>✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨</p>
