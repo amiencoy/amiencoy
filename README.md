@@ -1,6 +1,6 @@
-<div align="center">
-  <h2>Hi there, I'm Muhammad Amien (amiencoy)! 👋</h2>
-  <p>🚀 <b>DevSecOps & Infrastructure Automation Engineer | IT Consultant</b> 🚀</p>
+<div align="left">
+  <h2>BUILDING DIGITAL THINGS WITH STREET-EDUCATED STYLES</h2>
+  <p> DevSecOps & Infrastructure Automation Engineer | IT Consultant </p>
 
   <p>I'm a field-tested engineer with a strong focus on server security, infrastructure automation, and neat project delivery. I specialize in remediation, ensuring systems meet stringent security standards like CIS Benchmarks, and building efficient automated workflows.</p>
 </div>
