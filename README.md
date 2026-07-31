@@ -7,20 +7,17 @@
 
 <br>
 
-### 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 *   **Infrastructure & Automation:** Ansible, Terraform
 *   **Security & Compliance:** InSpec, OpenSCAP, Lynis
 *   **Workflow Integration:** n8n, Make.com
 *   **AI & Emerging Tech:** Hybrid RAG AI integrations
 *   **Concepts:** Server Hardening, Agentic Workflows, CI/CD
 
-### 🔭 What I've been working on
+## What I've been working on
 *   Executing large-scale server hardening and compliance auditing for dozens of enterprise production servers using custom automation roles (e.g., `audit_openscap`).
 *   Consulting on and deploying infrastructure for Hybrid RAG AI projects.
 *   Designing automated agentic workflows to streamline project management and daily operations.
-
-### ⚡ Fun Fact
-I believe in "street-educated" experience—building a career through hands-on troubleshooting, rigorous self-education, and maintaining exceptionally high standards for every deployment.
 
 <br>
 
