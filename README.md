@@ -11,7 +11,7 @@
 *   **Infrastructure & Automation:** Ansible, Terraform
 *   **Security & Compliance:** InSpec, OpenSCAP, Lynis
 *   **Workflow Integration:** n8n, Make.com
-*   **AI & Emerging Tech:** Hybrid RAG AI integrations
+*   **AI & Emerging Tech:** Hybrid RAG AI integrations, Model Context Protocol, AI Powered Software Development
 *   **Concepts:** Server Hardening, Agentic Workflows, CI/CD
 
 ## What I've been working on
