@@ -1,28 +1,28 @@
 <div align="left">
-  <h2>BUILDING DIGITAL THINGS WITH STREET-EDUCATED STYLES</h2>
-  <p> DevSecOps & Infrastructure Automation Engineer | IT Consultant </p>
+  <h2>BUILDING DIGITAL THINGS</h2>
+  <p>DevSecOps & Infrastructure Engineer | IT Consultant</p>
 
-  <p>I'm a field-tested engineer with a strong focus on server security, infrastructure automation, and neat project delivery. I specialize in remediation, ensuring systems meet stringent security standards like CIS Benchmarks, and building efficient automated workflows.</p>
+  <p>I love doing things that make me happy.</p>
+  <p>I also create some open-source tools, helpers, etc, everything that I love to do and share with everyone.</p>
 </div>
 
 <br>
 
-## Tech Stack & Tools
-*   **Infrastructure & Automation:** Ansible, Terraform
-*   **Security & Compliance:** InSpec, OpenSCAP, Lynis
-*   **Workflow Integration:** n8n, Make.com
-*   **AI & Emerging Tech:** Hybrid RAG AI integrations, Model Context Protocol, AI Powered Software Development
-*   **Concepts:** Server Hardening, Agentic Workflows, CI/CD
+## Tech Stack
+*   **Infrastructure & Orchestration:** Kubernetes, Docker, Ansible, Terraform, Kata (for micro-virtualizations)
+*   **Security & Compliance:** OpenSCAP, InSpec, Lynis
+*   **Automation & CI/CD:** Jenkins, GitLab Runner, n8n
+*   **AI & Agentic Workflows:** Hybrid RAG Model, Model Context Protocol (MCP), Agentic Workflows
 
-## What I've been working on
-*   Executing large-scale server hardening and compliance auditing for dozens of enterprise production servers using custom automation roles (e.g., `audit_openscap`).
-*   Consulting on and deploying infrastructure for Hybrid RAG AI projects.
-*   Designing automated agentic workflows to streamline project management and daily operations.
+## What I'm Currently Building & Doing
+*   Developing **Reconnator**, an AI-powered DevSecOps assistant that orchestrates security tools via Telegram using MCP and ephemeral Docker containers. find it <a href="https://github.com/amiencoy/Reconnator">here</a>
+*   Executing large-scale server hardening and compliance auditing for enterprise production servers.
+*   Architecting scalable Hybrid RAG AI systems as a customer service chatbot for websites.
 
 <br>
 
 <div align="center">
-  <h3>📫 Let's Connect!</h3>
+  <h3>📫 Let's Connect</h3>
   <p>
     <a href="https://www.linkedin.com/in/muhammad-amien/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     &nbsp;
