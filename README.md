@@ -1,15 +1,16 @@
 <div align="center">
-  <h1>Amiencoy is A Digital Monkey</h1>
-  <h2>DevSecOps & Automation Engineer | IT Consultant</h2>
+  <h1>Digital Monkey</h1>
+  <h2>Automation Engineer | IT Consultant</h2>
   <img src="https://img.shields.io/github/followers/amiencoy?label=Followers&style=flat&color=7c3aed"/>
   <img src="https://komarev.com/ghpvc/?username=amiencoy&label=Profile%20Views&color=1f6feb&style=flat"/>
   <img src="https://img.shields.io/badge/Focus-Automation%20%7C%20Agentic%20Workflows%20%7C%20Security%20Compliance-ffffff?style=flat"/>
   <img src="https://img.shields.io/badge/Status-Available-hhhhhh?style=flat"/>
   <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors(https://github.com/sponsors/amiencoy)"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=20&duration=2200&pause=750&color=FFFFFF&center=true&vCenter=true&width=1100&height=40&lines=MCP+%C2%B7+Agent-to-Agent+%C2%B7+Hybrid+RAG;ChatOps+%C2%B7+DevSecOps+%C2%B7+Infrastructure+Management+%C2%B7+Security+Compliance;Creating+tools+to+help+you+chill+a+bit+longer+.+.+."/>
 </div>
-<div align="center">
-  I love doing things that make me happy. I also create some open-source tools, helpers, etc, everything that I love to do and share with everyone as open-source projects. Available for any paid collaborations, partnership, and projects!
-</div>
+
+---
+
 <br>
 
 ## Tech Stack
