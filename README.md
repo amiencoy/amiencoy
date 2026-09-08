@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=amiencoy&label=Profile%20Views&color=1f6feb&style=flat"/>
   <img src="https://img.shields.io/badge/Focus-Automation%20%7C%20Agentic%20Workflows%20%7C%20Infrastructure%20Management-ffffff?style=flat"/>
   <img src="https://img.shields.io/badge/Status-Available-hhhhhh?style=flat"/>
-  <iframe src="https://github.com/sponsors/amiencoy/card" title="Sponsor amiencoy" height="225" width="600" style="border: 0;"></iframe>
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=20&duration=2200&pause=750&color=FFFFFF&center=true&vCenter=true&width=1100&height=40&lines=MCP+%C2%B7+Agent-to-Agent+%C2%B7+Hybrid+RAG;Agentic+Workflows+%C2%B7+DevSecOps+%C2%B7+Infrastructure+Management+%C2%B7+Automation;Creating+tools+to+help+you+chill+a+bit+longer+.+.+."/>
 </div>
 <br>
