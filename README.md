@@ -1,6 +1,6 @@
 <div align="left">
   <h1>BUILDING DIGITAL THINGS</h1>
-  <h2>DevSecOps & Infrastructure Engineer | IT Consultant</h2>
+  <h2>DevSecOps & Automation Engineer | IT Consultant</h2>
 
   <p>I love doing things that make me happy.</p>
   <p>I also create some open-source tools, helpers, etc, everything that I love to do and share with everyone as open-source projects.</p>
