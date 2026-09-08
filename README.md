@@ -6,11 +6,13 @@
   <img src="https://komarev.com/ghpvc/?username=amiencoy&label=Profile%20Views&color=1f6feb&style=flat"/>
   <img src="https://img.shields.io/badge/Focus-Automation%20%7C%20Agentic%20Workflows%20%7C%20Security%20Compliance-ffffff?style=flat"/>
   <img src="https://img.shields.io/badge/Status-Available-hhhhhh?style=flat"/>
-  <br></br>
+</div>
+
+<br>
   <p>I love doing things that make me happy.</p>
   <p>I also create some open-source tools, helpers, etc, everything that I love to do and share with everyone as open-source projects.</p>
   <p>Available for any paid collaborations, partnership, and projects!</p>
-</div>
+</br>
 
 <br>
 
