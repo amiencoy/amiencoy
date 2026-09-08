@@ -17,6 +17,7 @@
     - Infrastructure-as-Code (Terraform, Pulumi, OpenTofu)
     - Micro Virtualizations (Kata)
     - CI/CD Pipelines (Jenkins, Gitlab Runner, GitHub Actions)
+    - Graphical Monitoring (Grafana, Prometheus, Kibana, Logstash)
 *   **Security & Compliance:**
      - Security Hardening and Compliance for CIS Benchmark (Lynis)
      - Hardening Audit for CIS Benchmark (OpenSCAP, Chef InSpec)
