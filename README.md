@@ -8,9 +8,6 @@
   <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors(https://github.com/sponsors/amiencoy)"/>
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=20&duration=2200&pause=750&color=FFFFFF&center=true&vCenter=true&width=1100&height=40&lines=MCP+%C2%B7+Agent-to-Agent+%C2%B7+Hybrid+RAG;ChatOps+%C2%B7+DevSecOps+%C2%B7+Infrastructure+Management+%C2%B7+Security+Compliance;Creating+tools+to+help+you+chill+a+bit+longer+.+.+."/>
 </div>
-
----
-
 <br>
 
 ## Tech Stack
