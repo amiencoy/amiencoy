@@ -28,7 +28,15 @@
 * **ChatOps & Chatbot Development**
     - Telegram Chatbot
     - Discord Server Chatbot
- 
+* **Programming Languages & Frameworks**
+    - Python
+      - FastAPI
+      - Streamlit
+      - Gradio
+      - Flask
+    - Go (Secondary Choice)
+      - Gin
+      - Echo
 
 ## What I'm Currently Building & Doing
 | Project | What it demonstrates | Explore |
@@ -39,7 +47,7 @@
 
 ## Paid Works & Products
 *   Executing large-scale server hardening and compliance auditing for enterprise production servers
-*   Architecting scalable Hybrid RAG AI systems as a customer service chatbot for websites, **this model is available for sale**
+*   Architecting scalable Hybrid RAG AI systems as a customer service chatbot for websites using FastAPI, Flask and Gradio, **this model is available for sale**
 
 
 # CONTACT ME
