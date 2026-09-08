@@ -7,13 +7,9 @@
   <img src="https://img.shields.io/badge/Focus-Automation%20%7C%20Agentic%20Workflows%20%7C%20Security%20Compliance-ffffff?style=flat"/>
   <img src="https://img.shields.io/badge/Status-Available-hhhhhh?style=flat"/>
 </div>
-
-<br>
-  <p>I love doing things that make me happy.</p>
-  <p>I also create some open-source tools, helpers, etc, everything that I love to do and share with everyone as open-source projects.</p>
-  <p>Available for any paid collaborations, partnership, and projects!</p>
-</br>
-
+<div>
+  <p>I love doing things that make me happy. I also create some open-source tools, helpers, etc, everything that I love to do and share with everyone as open-source projects. Available for any paid collaborations, partnership, and projects!</p>
+</div>
 <br>
 
 ## Tech Stack
