@@ -50,7 +50,7 @@
 *   Architecting scalable Hybrid RAG AI systems as a customer service chatbot for websites using FastAPI, Flask and Gradio, **this model is available for sale**
 
 
-# CONTACT ME
+## Contact me
 For any further informations about the projects, selling products, partnership, sponsorship etc, kindly catch me up by email or LinkedIn.
 <br>
 
