@@ -18,6 +18,7 @@
     - Micro Virtualizations (Kata)
     - CI/CD Pipelines (Jenkins, Gitlab Runner, GitHub Actions)
     - Graphical Monitoring (Grafana, Prometheus, Kibana, Logstash)
+    - Cloud Computing (AWS, GCP, Microsoft Azure, Alibaba Cloud)
 *   **Security & Compliance:**
      - Security Hardening and Compliance for CIS Benchmark (Lynis)
      - Hardening Audit for CIS Benchmark (OpenSCAP, Chef InSpec)
@@ -29,14 +30,8 @@
     - Telegram Chatbot
     - Discord Server Chatbot
 * **Programming Languages & Frameworks**
-    - Python
-      - FastAPI
-      - Streamlit
-      - Gradio
-      - Flask
-    - Go (Secondary Choice)
-      - Gin
-      - Echo
+    - Python (FastAPI, Streamlit, Gradio, Flask, Django)
+    - Go (Gin, Echo)
 
 ## What I'm Currently Building & Doing
 | Project | What it demonstrates | Explore |
