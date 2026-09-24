@@ -1,60 +1,89 @@
 <div align="center">
   <h1>Digital Monkey</h1>
-  <h2>Automation Engineer | IT Consultant</h2>
-  <img src="https://img.shields.io/github/followers/amiencoy?label=Followers&style=flat&color=7c3aed"/>
-  <img src="https://komarev.com/ghpvc/?username=amiencoy&label=Profile%20Views&color=1f6feb&style=flat"/>
-  <img src="https://img.shields.io/badge/Focus-Automation%20%7C%20Agentic%20Workflows%20%7C%20Infrastructure%20Management-ffffff?style=flat"/>
-  <img src="https://img.shields.io/badge/Status-Available-hhhhhh?style=flat"/>
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=20&duration=2200&pause=750&color=FFFFFF&center=true&vCenter=true&width=1100&height=40&lines=MCP+%C2%B7+Agent-to-Agent+%C2%B7+Hybrid+RAG;Agentic+Workflows+%C2%B7+DevSecOps+%C2%B7+Infrastructure+Management+%C2%B7+Automation;Creating+tools+to+help+you+chill+a+bit+longer+.+.+."/>
-</div>
-<br>
-
-## Tech Stack
-*   **Infrastructure & Orchestration:**
-    - Containerized Services (Docker)
-    - Clustering Systems & Managements (K8s, Microk8s, K3s)
-    - Configuration Managements (Ansible, Chef)
-    - Infrastructure-as-Code (Terraform, Pulumi, OpenTofu)
-    - Micro Virtualizations (Kata)
-    - CI/CD Pipelines (Jenkins, Gitlab Runner, GitHub Actions)
-    - Graphical Monitoring (Grafana, Prometheus, Kibana, Logstash)
-    - Cloud Computing (AWS, GCP, Microsoft Azure, Alibaba Cloud)
-*   **Security & Compliance:**
-     - Security Hardening and Compliance for CIS Benchmark (Lynis)
-     - Hardening Audit for CIS Benchmark (OpenSCAP, Chef InSpec)
-*   **AI & Agentic Workflows:**
-    - Hybrid RAG Model
-    - Model Context Protocol (MCP)
-    - Agent-to-Agent Model (A2A)
-* **ChatOps & Chatbot Development**
-    - Telegram Chatbot
-    - Discord Server Chatbot
-* **Programming Languages & Frameworks**
-    - Python (FastAPI, Streamlit, Gradio, Flask, Django)
-    - Go (Gin, Echo)
-
-## What I'm Currently Building & Doing
-| Project | What it demonstrates | Explore |
-| --- | --- | --- |
-| **Lophiarch (Formerly Reconnator)** | AI-powered Reconnaisance assistant that orchestrates security tools via Telegram using Provider-agnostic Model, MCP, and ephemeral Docker containers. | [Repository](https://github.com/amiencoy/lophiarch) |
-| **Lophiont (Formerly AnglerGhost)** | A companion project of Lophiarch | (*Soon*) |
-| **SCRYMR** | A Discord Sentinel Chatbot for Security and Moderation System on Discord Server | (*Soon*) |
-
-## Paid Works & Products
-*   Executing large-scale server hardening and compliance auditing for enterprise production servers
-*   Architecting scalable Hybrid RAG AI systems as a customer service chatbot for websites using FastAPI, Flask and Gradio, **this model is available for sale**
-
-
-## Contact me
-For any further informations about the projects, selling products, partnership, sponsorship etc, kindly catch me up by email or LinkedIn.
-<br>
-
-<div align="center">
-  <h3>📫 Let's Connect</h3>
+  <p><strong>Muhammad amien · Automation Engineer &amp; IT Consultant</strong></p>
+  <p>Infrastructure, security, and agent workflows.<br>Creating tools to help you chill a bit longer.</p>
   <p>
-    <a href="https://www.linkedin.com/in/muhammad-amien/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    &nbsp;
-    <a href="mailto:mamien131@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://www.linkedin.com/in/muhammad-amien/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square" alt="Connect on LinkedIn"></a>
+    <a href="https://github.com/sponsors/amiencoy"><img src="https://img.shields.io/badge/GitHub-Sponsor-DB2777?style=flat-square&logo=githubsponsors&logoColor=white" alt="Sponsor my open-source work"></a>
   </p>
-  <br>
+  <p>
+    <a href="#what-im-building">Projects</a> ·
+    <a href="#recent-milestones">Updates</a> ·
+    <a href="#engineering-toolkit">Toolkit</a> ·
+    <a href="#work-with-me">Work with me</a>
+  </p>
 </div>
+
+---
+
+I build automation that connects infrastructure, security tools, and the people operating them. My work spans server hardening, infrastructure as code, CI/CD, ChatOps, and AI-assisted workflows.
+
+I care about systems that are understandable, repeatable, and maintainable: clear scope, explicit permissions, useful logs, and a human decision where it matters.
+
+## What I'm building
+
+### Lophiarch — reconnaissance through ChatOps
+
+**Formerly Reconnator · Released: [v2.2.2](https://github.com/amiencoy/lophiarch/releases/tag/v2.2.2)**
+
+An AI-assisted reconnaissance product that brings Telegram, MCP tool orchestration, disposable scanner containers, and PDF reporting into one workflow. It supports local or hosted models through an OpenAI-compatible interface, with policy checks and explicit target authorization before active scans.
+
+[Repository](https://github.com/amiencoy/lophiarch) · [Documentation](https://github.com/amiencoy/lophiarch/wiki) · [Releases](https://github.com/amiencoy/lophiarch/releases) · [Migration guide](https://github.com/amiencoy/lophiarch/blob/main/docs/MIGRATION.md)
+
+### The growing ecosystem
+
+| Project | What I'm building | Current stage |
+| :--- | :--- | :--- |
+| **[SCRYMR](https://github.com/amiencoy/scrymr)** | A Discord security and incident-response sentinel: detection, risk scoring, policy checks, moderator approval, and audit records. Formerly SCREAMRRRR. | **Pre-alpha** · dry-run by default |
+| **[Parabiont Protocol](https://github.com/amiencoy/parabiont-protocol)** | An open-protocol initiative for persistent, governed agent attachment: consent, lifecycle, capability boundaries, and revocation. | **Design & specification** |
+| **[Axionorm](https://github.com/amiencoy/axionorm)** | Agent policy as code: a YAML-first initiative for portable authority and governance rules, with an optional OPA/Rego backend planned. | **Specification planning** |
+| **[Lophiont](https://github.com/amiencoy/lophiont)** | A planned carrier connecting Lophiarch to external agents and graph systems, with a BloodHound bridge in scope. Formerly AnglerGhost. | **Design stage** |
+| **[Catapult](https://github.com/amiencoy/catapult)** | A design for self-hosted encrypted API-key storage and reusable, named API operations across applications and languages. | **Early concept** |
+
+The direction is to give each project a clear responsibility: **Lophiarch** handles reconnaissance, **SCRYMR** handles Discord security workflows, **Lophiont** explores the carrier role, **Parabiont Protocol** describes attachment, and **Axionorm** describes authority. **Catapult** explores a separate credential and API-access layer.
+
+The protocol and carrier relationships are design targets. Parabiont Protocol, Axionorm, Lophiont, and Catapult do not yet ship stable implementations or claim completed interoperability.
+
+## Recent milestones
+
+**September 2026**
+
+- **Lophiarch v2.2.2:** published the patch release; completed the Reconnator → Lophiarch rebrand across the current codebase, documentation, Wiki, and container publishing.
+- **SCRYMR:** completed the SCREAMRRRR → SCRYMR rebrand, including the Python package and entry point, with migration notes for existing configurations.
+- **New public projects:** launched the Parabiont Protocol, Axionorm, and Lophiont repositories with their scope, boundaries, and initial roadmaps.
+- **Next focus:** modular agent components, clearer policy contracts, and documented integration boundaries.
+
+## How I approach engineering
+
+- **Automate repeatable work.** Turn operational steps into versioned configuration and pipelines.
+- **Keep authority explicit.** Separate what an AI model proposes from what a runtime may execute.
+- **Build replaceable components.** Keep providers, tools, policy, and chat interfaces independently maintainable.
+- **Leave evidence behind.** Make logs, reports, migration notes, and documentation part of the work.
+
+## Engineering toolkit
+
+| Area | Tools & technologies |
+| :--- | :--- |
+| **Infrastructure & orchestration** | Docker, Kubernetes, K3s, MicroK8s, Helm |
+| **Infrastructure as code & configuration** | Terraform, Ansible, Pulumi, OpenTofu, Chef |
+| **CI/CD & observability** | GitHub Actions, Jenkins, GitLab Runner, Prometheus, Grafana, ELK |
+| **Security & compliance** | CIS-aligned hardening, Lynis, OpenSCAP, Chef InSpec |
+| **AI & integrations** | MCP, OpenAI-compatible model APIs, local inference, Hybrid RAG, Telegram & Discord ChatOps |
+| **Languages & application development** | Python, Go, FastAPI, Flask, Django, Streamlit, Gradio, Gin, Echo |
+| **Cloud platforms** | AWS, Google Cloud, Microsoft Azure, Alibaba Cloud |
+
+## Work with me
+
+I work on infrastructure automation, server hardening and compliance auditing, CI/CD, ChatOps integrations, and Hybrid RAG applications.
+
+Commercial engineering and deployment work is handled through **Draxis Digital**. I'm open to project discussions, technical collaboration, and consulting engagements. My Hybrid RAG customer-service chatbot work is also available for commercial discussions.
+
+For project scope, product inquiries, or partnerships, reach me on [LinkedIn](https://www.linkedin.com/in/muhammad-amien/).
+
+### Support the work
+
+[GitHub Sponsors](https://github.com/sponsors/amiencoy) helps fund Lophiarch maintenance, CI/CD and security scanning, infrastructure testing, documentation, and future development. Sponsorship and commercial services are handled separately.
+
+---
+
+<p align="center"><sub>Built with code, coffee, and a healthy dislike of repetitive work.</sub></p>
