@@ -36,8 +36,8 @@
 ## What I'm Currently Building & Doing
 | Project | What it demonstrates | Explore |
 | --- | --- | --- |
-| **Lophiarch (Formerly Reconnator)** | AI-powered Reconnaisance assistant that orchestrates security tools via Telegram using Provider-agnostic Model, MCP, and ephemeral Docker containers. | [Repository](https://github.com/amiencoy/Reconnator) |
-| **Lophiont (Formerly AnglerGhost)** | A Sister Project of Reconnator | (*Soon*) |
+| **Lophiarch (Formerly Reconnator)** | AI-powered Reconnaisance assistant that orchestrates security tools via Telegram using Provider-agnostic Model, MCP, and ephemeral Docker containers. | [Repository](https://github.com/amiencoy/lophiarch) |
+| **Lophiont (Formerly AnglerGhost)** | A companion project of Lophiarch | (*Soon*) |
 | **SCRYMR** | A Discord Sentinel Chatbot for Security and Moderation System on Discord Server | (*Soon*) |
 
 ## Paid Works & Products
