@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Digital Monkey</h1>
-  <p><strong>Muhammad amien · Automation Engineer &amp; IT Consultant</strong></p>
+  <p><strong>Automation Engineer &amp; IT Consultant</strong></p>
   <p>Infrastructure, security, and agent workflows.<br>Creating tools to help you chill a bit longer.</p>
   <p>
     <a href="https://www.linkedin.com/in/muhammad-amien/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square" alt="Connect on LinkedIn"></a>
