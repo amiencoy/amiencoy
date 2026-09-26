@@ -32,26 +32,29 @@ An AI-assisted reconnaissance product that brings Telegram, MCP tool orchestrati
 
 ### The growing ecosystem
 
-| Project | What I'm building | Current stage |
-| :--- | :--- | :--- |
-| **[SCRYMR](https://github.com/amiencoy/scrymr)** | A Discord security and incident-response sentinel: detection, risk scoring, policy checks, moderator approval, and audit records. Formerly SCREAMRRRR. | **Pre-alpha** · dry-run by default |
-| **[Parabiont Protocol](https://github.com/amiencoy/parabiont-protocol)** | An open-protocol initiative for persistent, governed agent attachment: consent, lifecycle, capability boundaries, and revocation. | **Design & specification** |
-| **[Axionorm](https://github.com/amiencoy/axionorm)** | Agent policy as code: a YAML-first initiative for portable authority and governance rules, with an optional OPA/Rego backend planned. | **Specification planning** |
-| **[Lophiont](https://github.com/amiencoy/lophiont)** | A planned carrier connecting Lophiarch to external agents and graph systems, with a BloodHound bridge in scope. Formerly AnglerGhost. | **Design stage** |
-| **[Catapult](https://github.com/amiencoy/catapult)** | A design for self-hosted encrypted API-key storage and reusable, named API operations across applications and languages. | **Early concept** |
+| Project | What it does | Version / stage | Repository |
+| :--- | :--- | :--- | :--- |
+| **SCRYMR** | Discord security and incident-response sentinel with detection, policy checks, moderator approval, and audit records; dry-run by default. | `0.1.0.dev0` · pre-alpha, no tagged release | [Repository](https://github.com/amiencoy/scrymr) |
+| **Parabiont Protocol** | Experimental signed context-carrier profile over A2A, with expiry, revocation, and an MCP gateway after policy filtering. | `v0.1.0` · experimental | [Repository](https://github.com/amiencoy/parabiont-protocol) |
+| **Axionorm** | YAML-first agent policy as code with a working OPA/Rego evaluator and digest-bound context review. | `v0.1.0` · experimental | [Repository](https://github.com/amiencoy/axionorm) |
+| **PARALAX MCP** | Policy-gated MCP tools and a combined installer for the local Axionorm → Parabiont → MCP flow; desktop configuration is generated for Gemini CLI/AionUi. | `v0.1.0` · experimental integration | [Repository](https://github.com/amiencoy/paralax-mcp) |
+| **Discord Bot Notifier** | Self-hosted Discord alerts and slash commands with selectable GPT, Claude, Gemini, Mistral, Grok, Llama, or OpenAI-compatible local models. | `v0.2.0` source · live bot/provider setup required | [Repository](https://github.com/amiencoy/discord-bot-notifier) |
+| **Lophiont** | Planned carrier connecting Lophiarch to external agents and graph systems, including a scoped BloodHound bridge. Formerly AnglerGhost. | Design stage · unversioned | [Repository](https://github.com/amiencoy/lophiont) |
+| **Catapult** | Planned self-hosted encrypted credential storage and reusable, named API operations across applications. | Early concept · unversioned | [Repository](https://github.com/amiencoy/catapult) |
 
-The direction is to give each project a clear responsibility: **Lophiarch** handles reconnaissance, **SCRYMR** handles Discord security workflows, **Lophiont** explores the carrier role, **Parabiont Protocol** describes attachment, and **Axionorm** describes authority. **Catapult** explores a separate credential and API-access layer.
+Each project has a defined responsibility: **Lophiarch** handles reconnaissance, **SCRYMR** handles Discord security workflows, **Parabiont Protocol** carries governed context, **Axionorm** evaluates authority, and **PARALAX MCP** exposes bounded tools to the receiving agent. **Discord Bot Notifier** is a separate Discord alert and model-control utility. **Lophiont** and **Catapult** remain design initiatives.
 
-The protocol and carrier relationships are design targets. Parabiont Protocol, Axionorm, Lophiont, and Catapult do not yet ship stable implementations or claim completed interoperability.
+Axionorm, Parabiont Protocol, and PARALAX MCP have an experimental local integration; live Gemini desktop behavior and production deployment remain to be validated. The notifier's provider adapters have local tests, while Discord and provider calls require operators to configure their own credentials.
 
 ## Recent milestones
 
 **September 2026**
 
-- **Lophiarch v2.2.2:** published the patch release; completed the Reconnator → Lophiarch rebrand across the current codebase, documentation, Wiki, and container publishing.
-- **SCRYMR:** completed the SCREAMRRRR → SCRYMR rebrand, including the Python package and entry point, with migration notes for existing configurations.
-- **New public projects:** launched the Parabiont Protocol, Axionorm, and Lophiont repositories with their scope, boundaries, and initial roadmaps.
-- **Next focus:** modular agent components, clearer policy contracts, and documented integration boundaries.
+- **Lophiarch v2.2.2:** published the patch release and completed the Reconnator → Lophiarch rebrand across the codebase, documentation, Wiki, and container publishing.
+- **SCRYMR 0.1.0.dev0:** completed the SCREAMRRRR → SCRYMR rebrand. It remains pre-alpha, with dry-run as its default.
+- **Axionorm, Parabiont Protocol & PARALAX MCP v0.1.0:** added a local OPA policy → signed A2A context → governed MCP flow, plus a combined installer. Live desktop integration still needs validation on the operator's machine.
+- **Discord Bot Notifier v0.2.0:** published a self-hosted Discord bot and assistant workflow with per-model status, selected alert types, and multi-provider model commands. Each operator supplies their own bot and API credentials.
+- **Lophiont & Catapult:** published their scopes and initial roadmaps; both remain design-stage work.
 
 ## How I approach engineering
 
